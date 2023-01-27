@@ -1,7 +1,11 @@
-### 👋 Welcome to my profile 
+# 👋 Oh, Hi there
+Welcome to my GitHub profile! 
+## About me
+I am Joe, an aspiring software developer from Hertfordshire 🇬🇧
 
+I enjoy solving problems and learning new things!
 ## Start here
-My projects ranked in order of complexity
+My projects ranked:
 
 1. (most complex): [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress)
 2. [ConnectFour](https://github.com/J-Mint/ConnectFour)
