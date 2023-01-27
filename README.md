@@ -1,7 +1,7 @@
 ### 👋 Welcome to my profile 
 
 ## Start here
-In order of complexity
+My projects ranked in order of complexity
 
 1. (most complex): [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress)
 2. [ConnectFour](https://github.com/J-Mint/ConnectFour)
