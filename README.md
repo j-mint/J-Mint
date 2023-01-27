@@ -6,8 +6,8 @@ My projects ranked in order of complexity
 1. (most complex): [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress)
 2. [ConnectFour](https://github.com/J-Mint/ConnectFour)
 3. [NoughtsAndCrosses](https://github.com/J-Mint/NoughtsAndCrosses)
-4. [simpleHypotenuseCalc](https://github.com/J-Mint/simpleHypotenuseCalc)
-5. (least complex): [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame)
+4. [simpleHypotenuseCalc](https://github.com/J-Mint/simpleHypotenuseCalc) (no readme/demo)
+5. (least complex): [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
 
 <!--
 **J-Mint/J-Mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
