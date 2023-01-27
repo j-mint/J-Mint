@@ -9,6 +9,18 @@ My projects ranked in order of complexity
 4. [simpleHypotenuseCalc](https://github.com/J-Mint/simpleHypotenuseCalc) (no readme/demo)
 5. (least complex): [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
 
+## Future projects I'd like to work on (no particular order)
+- Something that utilizes Web Scraping
+- Airline flight booking system (to expand upon the theatre booking system)
+- Build an API
+- Snake game
+- Basic web server
+- Project management dashboard
+- Music player - 2 versions: api and database 
+- ECommerce Web app
+- Instagram clone with a unique spin
+
+
 <!--
 **J-Mint/J-Mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
