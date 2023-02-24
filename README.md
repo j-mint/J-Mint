@@ -7,6 +7,11 @@ I completed a Software Engineering Skills Bootcamp through Aston University in 2
 
 Outside of coding, I enjoy keeping active. I am aiming to run my first marathon this year. I ran my first 5K on 14/01/2023, first 10K on 18/01/2023 and my first half-marathon (~21.5K) on 05/02/2023. 
 
+## What I'm currently working on:
+* [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
+* [Snake Game](https://github.com/J-Mint/SnakeGame) 
+* [Pong Game](https://github.com/J-Mint/PongGame) 
+
 ## My Projects
 ### Advanced
 ##### Java and MySQL
