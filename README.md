@@ -6,21 +6,22 @@ I'm Joe and I'm a software developer from Hertfordshire. I enjoy solving problem
 I completed a Software Engineering Skills Bootcamp through Aston University in 2022 after experimenting with coding on-and-off in my free time for a couple of years (e.g. doing courses on freeCodeCamp). I wanted to surround myself with people in a similar situation to myself and also fill in any gaps in my knowledge and take my understanding of coding to the next level. I really enjoyed the projects I worked on in the course and it was great to see myself growing more comfortable and confident coding in Java. My favourite project was the final project: a theatre booking system that we produced as a team and gave a presentation on. It was exciting to work on a project with other students and have real client interactions. The presentation went well and I am still in-contact with my team mates to this day. Once the course had finished, my next goal was to see how I could improve the solution. This is what led to me learning java swing: first by following a 'tictactoe' tutorial, then by building a connect4 game and finally leading to the Theatre Booking System V3. Before this I had also completed a couple of SQL courses on Udemy.
 
 ## My Projects
-My projects ranked:
-1. (most complex): [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress)
-2. QuizWizard - a java application to help college professors produce multiple choice quizzes via a command line interface, ready to be printed. 
-3. Event Management Database (SQL)
-4. Photo-sharing social media app database design (SQL)
-5. [ConnectFour](https://github.com/J-Mint/ConnectFour)
-6. [NoughtsAndCrosses](https://github.com/J-Mint/NoughtsAndCrosses)
-7. Simple Painting Tool. An painting application with the ability to change brush size and colour.
-8. Animated car. A simple java application which shows a car moving backwards and forwards across the screen.
-9. [simpleHypotenuseCalc](https://github.com/J-Mint/simpleHypotenuseCalc) (no readme/demo)
-10. (least complex): [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
+1. [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress)
+2. Snake Game (in-progress)
+3. SecurePasswordGenerator (in-progress)
+4. QuizWizard - a java application to help college professors produce multiple choice quizzes via a command line interface, ready to be printed.
+5. [Event Management Database (SQL)](https://github.com/J-Mint/EventManagementDatabase) (no readme/ demo)
+6. Photo-sharing social media app database design (SQL)
+7. [ConnectFour](https://github.com/J-Mint/ConnectFour)
+8. [NoughtsAndCrosses](https://github.com/J-Mint/NoughtsAndCrosses)
+9. Simple Painting Tool. An painting application with the ability to change brush size and colour.
+10. Animated car. A simple java application which shows a car moving backwards and forwards across the screen.
+11. [simpleHypotenuseCalc](https://github.com/J-Mint/simpleHypotenuseCalc) (no readme/demo)
+12. [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
 
-## I'd like to learn:
+## I'd like to learn more about:
 - Java Swing (currently learning for theatre booking project).
-- Unit and integration testing (currently learning for theatre booking project).
+- Unit testing (currently learning for theatre booking project).
 - System Development lifecycle.
 - Maven/ Spring/ Spring Boot.
 - Linux.
@@ -32,8 +33,7 @@ My projects ranked:
 - An application to utilise Web Scraping.
 - Airline flight booking system (to expand upon the theatre booking system). Website front end. Use APIs to get real-world flight information and weather forecasts for destinations. SQL backend.
 - Secure password generator with customisable character sets and length. 
-- Build an API.
-- Snake game.
+- Build an API
 - Basic web server.
 - Project management dashboard.
 - Music player.
