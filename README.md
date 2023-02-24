@@ -11,6 +11,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
 * [Snake Game](https://github.com/J-Mint/SnakeGame) 
 * [Pong Game](https://github.com/J-Mint/PongGame) 
+* [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
 
 ## My Projects
 ### Advanced
