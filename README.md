@@ -10,7 +10,6 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 ## What I'm currently working on:
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
 * [Snake Game](https://github.com/J-Mint/SnakeGame) 
-* [Pong Game](https://github.com/J-Mint/PongGame) 
 * [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
 
 ## My Projects
@@ -28,7 +27,10 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 ##### Java
 * [ConnectFour Game](https://github.com/J-Mint/ConnectFour) (has readme/ demo)
 * [Snake Game](https://github.com/J-Mint/SnakeGame) (in-progress)
-* [Pong Game](https://github.com/J-Mint/PongGame) (in-progress) 
+  * V1 was made following a tutorial
+  * V2 is V1 but with added features
+* [Pong Game](https://github.com/J-Mint/PongGame) (no readme/demo)
+  * Made following a tutorial
 * QuizWizard
   * An application to help college professors produce multiple choice quizzes via a command line interface, ready to be printed and handed out to their students.
 ##### MySQL
