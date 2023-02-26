@@ -79,8 +79,9 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 - Maven/ Spring/ Spring Boot.
 - Linux.
 - Model View Controller (MVC).
-- AWS/ Docker.
-- Data structures and algorithms ([course one](https://www.coursera.org/learn/algorithms-part1), [course two](https://sp21.datastructur.es/), [course three](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/)).
+- AWS ([Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1), [study material](https://www.youtube.com/watch?v=SOTamWNgDKc))
+- Docker.
+- Data structures and algorithms ([course one](https://www.coursera.org/learn/algorithms-part1), [course two](https://sp21.datastructur.es/), [course three](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/),[course four](https://www.youtube.com/watch?v=RBSGKlAvoiM)).
 
 ## Future projects I'd like to work on:
 - An application to utilise Web Scraping.
@@ -92,7 +93,6 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 - Music player.
 - ECommerce Web app.
 - Instagram clone.
-
 
 <!--
 **J-Mint/J-Mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
