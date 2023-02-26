@@ -27,10 +27,10 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 ##### Java
 * [ConnectFour Game](https://github.com/J-Mint/ConnectFour) (has readme/ demo)
 * [Snake Game](https://github.com/J-Mint/SnakeGame) (in-progress)
-  * V1 was made following a tutorial
-  * V2 is V1 but with added features
+  * V1 was made following a tutorial. I followed the tutorial to learn more about Swing and user interfaces.
+  * V2 is V1 but with added features.
 * [Pong Game](https://github.com/J-Mint/PongGame) (no readme/demo)
-  * Made following a tutorial
+  * Made following a tutorial. I followed the tutorial to learn more about Swing and user interfaces.
 * QuizWizard
   * An application to help college professors produce multiple choice quizzes via a command line interface, ready to be printed and handed out to their students.
 ##### MySQL
@@ -48,6 +48,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 * [NoughtsAndCrosses](https://github.com/J-Mint/NoughtsAndCrosses) (has readme/ demo)
   * A GUI game of Noughts and Crosses.
   * Made using a TicTacToe tutorial with a few changes made. 
+  * Led to the ConnectFour game I made.
 * [simpleHypotenuseCalc](https://github.com/J-Mint/simpleHypotenuseCalc) (no readme/demo) 
   * User must provide the Opposite and Adjacent side legnths and the program will calculate the hypotenuse of the triangle.
 * [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
