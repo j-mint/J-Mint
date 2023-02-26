@@ -96,6 +96,10 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 - ECommerce Web app.
 - Instagram clone.
 
+##😎 Random Java tricks I thought were cool 
+1. if statements don't need curly braces surrounding them, although it is probably best practice to include them anyway.
+2. If you have a method named toString() in your class, when you print an object made from that class you don't need to write objName.toString() - only objName.
+
 <!--
 **J-Mint/J-Mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
