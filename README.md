@@ -26,7 +26,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 ### Intermediate
 ##### Java
 * [ConnectFour Game](https://github.com/J-Mint/ConnectFour) (has readme/ demo)
-* [Snake Game](https://github.com/J-Mint/SnakeGame) (in-progress)
+* [Snake Game V2](https://github.com/J-Mint/SnakeGame) (in-progress)
   * V1 was made following a tutorial. I followed the tutorial to learn more about Swing and user interfaces.
   * V2 is V1 but with added features.
 * [Pong Game](https://github.com/J-Mint/PongGame) (no readme/demo)
