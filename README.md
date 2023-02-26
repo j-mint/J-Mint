@@ -9,7 +9,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 
 ## What I'm currently working on:
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
-* [Snake Game](https://github.com/J-Mint/SnakeGame) 
+* [Snake Game V2](https://github.com/J-Mint/SnakeGame) 
 * [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
 
 ## My Projects
