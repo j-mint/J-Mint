@@ -12,7 +12,15 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 * [Snake Game V2](https://github.com/J-Mint/SnakeGame) 
 * [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
 * Soduku solver
-* Full stack course [(study material)](https://www.youtube.com/watch?v=5PdEmeopJVQ)
+
+## What I plan to do
+My plan changes regularly as I make progress or I update my goals. 
+* [Java beginner course](https://www.youtube.com/watch?v=FL2SMZxNQlc) 
+  * (I realised that there are still gaps in my knowledge which this course will solve)
+* Soduku Solver
+* [HTML + CSS Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+* [Full stack course](https://www.youtube.com/watch?v=5PdEmeopJVQ)  
+* AWS Certification
 
 ## My Projects
 ### Advanced
