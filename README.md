@@ -1,24 +1,27 @@
 # 👋 Hi there
 Welcome to my GitHub profile! 
-## About me
+## 😄 About me
 I'm Joe and I'm a software developer from Hertfordshire. I enjoy solving problems and learning new things!
 
-I completed a Software Engineering Skills Bootcamp through Aston University in 2022 after experimenting with coding on-and-off in my free time for a couple of years (e.g. doing courses on freeCodeCamp). I wanted to surround myself with people in a similar situation to myself and also fill in any gaps in my knowledge and take my understanding of coding to the next level. I really enjoyed the projects I worked on in the course and it was great to see myself growing more comfortable and confident coding in Java. My favourite project was the final project: a theatre booking system that we produced as a team and gave a presentation on. It was exciting to work on a project with other students and have real client interactions. The presentation went well and I am still in-contact with my team mates to this day. Once the course had finished, my next goal was to see how I could improve the solution. This is what led to me learning java swing: first by following a 'tictactoe' tutorial, then by building a connect4 game and finally leading to the Theatre Booking System V3. Before this I had also completed a couple of SQL courses on Udemy.
+I completed a Software Engineering Skills Bootcamp through Aston University in 2022 after experimenting with coding on-and-off in my free time for a couple of years (e.g. doing courses on freeCodeCamp). I wanted to surround myself with people in a similar situation to myself and also fill in any gaps in my knowledge and take my understanding of coding to the next level. I really enjoyed the projects I worked on in the course and it was great to see myself growing more comfortable and confident coding in Java. My favourite project was the final project: a theatre booking system that we produced as a team and gave a presentation on. It was exciting to work on a project with other students and have real client interactions. The presentation went well and I am still in-contact with my team mates to this day. Once the course had finished, my next goal was to see how I could improve the solution. This is what led to me learning java swing: first by following a 'tictactoe' tutorial, then by building a connect4 game and finally leading to the Theatre Booking System V3. Before this I also completed a couple of SQL courses on Udemy.
+
+I a now improving my web development skills via a free course from Harvard Univeristy.
 
 Outside of coding, I enjoy keeping active. I am aiming to run my first marathon this year. I ran my first 5K on 14/01/2023, first 10K on 18/01/2023 and my first half-marathon (~21.5K) on 05/02/2023. 
 
-## What I'm currently working on:
+## 🔭 What I'm currently working on:
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
 * [Snake Game V2](https://github.com/J-Mint/SnakeGame) 
 * [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
+* [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/)
 
-## What I plan to do
+## 🌱 What I plan to do
 My plan changes regularly as I make progress or I update my goals. 
 * [HTML + CSS Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 * [Full stack course](https://www.youtube.com/watch?v=5PdEmeopJVQ)  
-* AWS Certification
+* AWS Certification.
 
-## My Projects
+## ⚡ My Projects
 ### Advanced
 ##### Java and MySQL
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress) (has readme/ demo)
@@ -78,9 +81,8 @@ My plan changes regularly as I make progress or I update my goals.
 * Simple Painting Tool. 
   * A painting application with the ability to change brush size and colour. 
 
-## I'd like to learn more about:
+## 🌱 I'd like to learn more about:
 - Java Swing (currently learning for theatre booking project).
-- Unit testing (currently learning for theatre booking project).
 - System Development lifecycle.
 - Maven/ Spring/ Spring Boot.
 - Linux.
@@ -88,17 +90,6 @@ My plan changes regularly as I make progress or I update my goals.
 - AWS ([Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1), [study material](https://www.youtube.com/watch?v=SOTamWNgDKc))
 - Docker.
 - Data structures and algorithms ([course one](https://www.coursera.org/learn/algorithms-part1), [course two](https://sp21.datastructur.es/), [course three](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/),[course four](https://www.youtube.com/watch?v=RBSGKlAvoiM)).
-
-## Future projects I'd like to work on:
-- An application to utilise Web Scraping.
-- Airline flight booking system (to expand upon the theatre booking system). Website front end. Use APIs to get real-world flight information and weather forecasts for destinations. SQL backend.
-- Secure password generator with customisable character sets and length. 
-- Build an API
-- Basic web server.
-- Project management dashboard.
-- Music player.
-- ECommerce Web app.
-- Instagram clone.
 
 ## 😎 Random Java tricks I thought were cool 
 1. if statements don't need curly braces surrounding them, although it is probably best practice to include them anyway.
