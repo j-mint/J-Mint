@@ -11,15 +11,16 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 
 ## 🔭 What I'm currently working on:
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
-* [Snake Game V2](https://github.com/J-Mint/SnakeGame) 
-* [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
 * [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/)
+* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence)
 
 ## 🌱 What I plan to do
 My plan changes regularly as I make progress or I update my goals. 
 * [HTML + CSS Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 * [Full stack course](https://www.youtube.com/watch?v=5PdEmeopJVQ)  
 * AWS Certification.
+* [Snake Game V2](https://github.com/J-Mint/SnakeGame) 
+* [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
 
 ## ⚡ My Projects
 ### Advanced
