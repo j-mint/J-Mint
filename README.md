@@ -5,22 +5,17 @@ I'm Joe and I'm a software developer from Hertfordshire. I enjoy solving problem
 
 I completed a Software Engineering Skills Bootcamp through Aston University in 2022 after experimenting with coding on-and-off in my free time for a couple of years (e.g. doing courses on freeCodeCamp). I wanted to surround myself with people in a similar situation to myself and also fill in any gaps in my knowledge and take my understanding of coding to the next level. I really enjoyed the projects I worked on in the course and it was great to see myself growing more comfortable and confident coding in Java. My favourite project was the final project: a theatre booking system that we produced as a team and gave a presentation on. It was exciting to work on a project with other students and have real client interactions. The presentation went well and I am still in-contact with my team mates to this day. Once the course had finished, my next goal was to see how I could improve the solution. This is what led to me learning java swing: first by following a 'tictactoe' tutorial, then by building a connect4 game and finally leading to the Theatre Booking System V3.
 
-I a now improving my web development skills via a free course from Harvard Univeristy.
-
 Outside of coding, I enjoy keeping active. I am aiming to run my first marathon this year. I ran my first 5K on 14/01/2023, first 10K on 18/01/2023 and my first half-marathon (~21.5K) on 05/02/2023. 
 
 ## 🔭 What I'm currently working on:
-* [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3)
-* [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/)
-* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence)
+* [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3). Target completion date 08/03/2023.
+* [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/). Target completion date May 2023.
+* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence. Target completion date May 2023.
 
-## 🌱 What I plan to do
-My plan changes regularly as I make progress or I update my goals. 
-* [HTML + CSS Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
-* [Full stack course](https://www.youtube.com/watch?v=5PdEmeopJVQ)  
-* AWS Certification.
-* [Snake Game V2](https://github.com/J-Mint/SnakeGame) 
-* [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator)
+## 🌱 What's next?
+* Build an API web app.
+* Build a content management system.
+* Complete data structures courses.
 
 ## ⚡ My Projects
 ### Advanced
