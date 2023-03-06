@@ -10,7 +10,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 ## 🔭 What I'm currently working on:
 * [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3). Target completion date 08/03/2023.
 * [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/). Target completion date May 2023.
-* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence. Target completion date May 2023.
+* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence). Target completion date May 2023.
 
 ## 🌱 What's next?
 * Build an API web app.
