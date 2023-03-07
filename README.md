@@ -87,10 +87,6 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 - Docker.
 - Data structures and algorithms ([course one](https://www.coursera.org/learn/algorithms-part1), [course two](https://sp21.datastructur.es/), [course three](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/),[course four](https://www.youtube.com/watch?v=RBSGKlAvoiM)).
 
-## 😎 Random Java tricks I thought were cool 
-1. if statements don't need curly braces surrounding them, although it is probably best practice to include them anyway.
-2. If you have a method named toString() in your class, when you print an object made from that class you don't need to write objName.toString() - only objName.
-
 <!--
 **J-Mint/J-Mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
