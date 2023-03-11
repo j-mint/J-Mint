@@ -8,9 +8,9 @@ I completed a Software Engineering Skills Bootcamp through Aston University in 2
 Outside of coding, I enjoy keeping active. I am aiming to run my first marathon this year. I ran my first 5K on 14/01/2023, first 10K on 18/01/2023 and my first half-marathon (~21.5K) on 05/02/2023. 
 
 ## 🔭 What I'm currently working on:
-* [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3). Target completion date 08/03/2023.
-* [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/). Target completion date May 2023.
-* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence). Target completion date May 2023.
+* [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/)
+* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence)
 
 ## 🌱 What's next?
 * Build an API web app.
@@ -49,7 +49,11 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
   * User must provide the Opposite and Adjacent side legnths and the program will calculate the hypotenuse of the triangle.
 * [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
   * Generates a random number which the user must guess.
-##### BlueJ IDE (required)
+
+##### HTML/ CSS
+* [CD Cover](https://github.com/j-mint/CD-Cover-basic-css)
+* [simple HTML web page](https://github.com/j-mint/basic-HTML-page)
+###### BlueJ IDE (required)
 * [Clock App](https://github.com/J-Mint/Clock-App) (no readme/ demo)
   * A program to show a running clock, with methods to switch between 12 and 24 hour format and add an alarm.
 * [Shop App](https://github.com/J-Mint/ShopApp) (no readme/ demo)
@@ -67,6 +71,8 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
   *  A simple program to draw a vehicle on the screen, with methods to make the vehicle move forwards and backwards.
 * Simple Painting Tool. 
   * A painting application with the ability to change brush size and colour. 
+
+
 
 ### Tutorials Followed
 * [Snake Game](https://github.com/J-Mint/SnakeGame) (no readme/demo)
