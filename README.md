@@ -19,8 +19,8 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 
 ## ⚡ My Projects
 ### Advanced
-##### Java and MySQL
-* [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (in-progress) (has readme/ demo)
+#### Java and MySQL
+* [Theatre-Booking-System-V3](https://github.com/J-Mint/Theatre-Booking-System-V3) (has readme/ demo)
   * Add and remove shows.
   * Stage and remove performances.
   * Book individual seats.
@@ -29,11 +29,12 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
   * Database connectivity.
   * GUI front end.
 ### Intermediate
-##### Java
+
+#### Java
 * [ConnectFour Game](https://github.com/J-Mint/ConnectFour) (has readme/ demo)
 * QuizWizard
   * An application to help college professors produce multiple choice quizzes via a command line interface, ready to be printed and handed out to their students.
-##### MySQL
+#### MySQL
 * [Event Management Database (SQL)](https://github.com/J-Mint/EventManagementDatabase) (no readme/ demo)
   * With events, customers and bookings.
   * Stored procedures to improve data entry speed
@@ -41,7 +42,12 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 * Photo-sharing social media app database design (SQL)
   * Create photo posts with comments, hashtags and likes.
 ### Simple
-##### Java
+#### HTML/ CSS
+* [Google Search](https://github.com/j-mint/Search-Webpage)
+* [CD Cover](https://github.com/j-mint/CD-Cover-basic-css)
+* [simple HTML web page](https://github.com/j-mint/basic-HTML-page)
+
+#### Java
 * [SecurePasswordGenerator](https://github.com/J-Mint/SecurePasswordGenerator) (in-progress)
   * Generate a secure password of user defined character length.
   * Ability to include or exclude symbols, numbers and uppercase and lowercase characters.
@@ -50,10 +56,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 * [simpleNumberGuessingGame](https://github.com/J-Mint/simpleNumberGuessingGame) (no readme/demo)
   * Generates a random number which the user must guess.
 
-##### HTML/ CSS
-* [CD Cover](https://github.com/j-mint/CD-Cover-basic-css)
-* [simple HTML web page](https://github.com/j-mint/basic-HTML-page)
-###### BlueJ IDE (required)
+#### BlueJ IDE (required)
 * [Clock App](https://github.com/J-Mint/Clock-App) (no readme/ demo)
   * A program to show a running clock, with methods to switch between 12 and 24 hour format and add an alarm.
 * [Shop App](https://github.com/J-Mint/ShopApp) (no readme/ demo)
@@ -72,17 +75,6 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 * Simple Painting Tool. 
   * A painting application with the ability to change brush size and colour. 
 
-
-
-### Tutorials Followed
-* [Snake Game](https://github.com/J-Mint/SnakeGame) (no readme/demo)
-  * Made following a tutorial. I followed the tutorial to learn more about Swing and user interfaces.
-* [Pong Game](https://github.com/J-Mint/PongGame) (no readme/demo)
-  * Made following a tutorial. I followed the tutorial to learn more about Swing and user interfaces.
-* [NoughtsAndCrosses](https://github.com/J-Mint/NoughtsAndCrosses) (has readme/ demo)
-  * A game of Noughts and Crosses.
-  * Led to ConnectFour project.
-
 ## 🌱 I'd like to learn more about:
 - Java Swing (currently learning for theatre booking project).
 - System Development lifecycle.
@@ -92,18 +84,3 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 - AWS ([Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1), [study material](https://www.youtube.com/watch?v=SOTamWNgDKc))
 - Docker.
 - Data structures and algorithms ([course one](https://www.coursera.org/learn/algorithms-part1), [course two](https://sp21.datastructur.es/), [course three](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/),[course four](https://www.youtube.com/watch?v=RBSGKlAvoiM)).
-
-<!--
-**J-Mint/J-Mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
