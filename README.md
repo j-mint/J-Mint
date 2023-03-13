@@ -10,7 +10,7 @@ Outside of coding, I enjoy keeping active. I am aiming to run my first marathon 
 ## 🔭 What I'm currently working on:
 * [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 * [Harvard CS50 Web Dev](https://cs50.harvard.edu/web/2020/)
-* [MySQL for data anlytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence)
+* [MySQL for data analytics and business intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence)
 
 ## 🌱 What's next?
 * Build an API web app.
